@@ -8,7 +8,12 @@ p {
   color: rgb(255, 123, 0);
   font-size: 50;
   float: right;
+
+  
 }
 body{
   background: green;
+}
+span {
+  border: 2px solid lightgreen;
 }
