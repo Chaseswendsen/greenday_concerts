@@ -1,4 +1,7 @@
 img{
-  width: 30%;
-  background-color: yellow;
+  max width: 50%;
+  float: right;
+}
+p{
+  float: left;
 }
