@@ -1,8 +1,14 @@
-img{
+img {
   height: auto;
-  max-width: 50%;
+  width: 30%;
+  float: left;
+  padding: 50px;
+}
+p {
+  color: rgb(255, 123, 0);
+  font-size: 50;
   float: right;
 }
-p{
-  float: left;
+body{
+  background: green;
 }
